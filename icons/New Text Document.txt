@@ -1,0 +1,5 @@
+<i class="fa-solid fa-ban"></i>
+<i class="fa-solid fa-globe"></i>
+<i class="fa-regular fa-share-from-square"></i>
+<i class="fa-solid fa-right-to-bracket"></i>
+<i class="fa-solid fa-crown"></i>
